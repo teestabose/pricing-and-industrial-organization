@@ -1,0 +1,5 @@
+pyblp>=1.1
+numpy
+pandas
+matplotlib
+jupyter
